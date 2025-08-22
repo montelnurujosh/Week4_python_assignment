@@ -18,4 +18,3 @@ By the end, you’ll understand how to **manage files efficiently** and handle u
 
 ---
 
-## 📂 Project Structure
